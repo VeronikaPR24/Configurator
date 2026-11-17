@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5738222-3996-4D21-804A-80586F0D5332}|configurator_pc\\configurator_pc.csproj|d:\\\u0442\u0440\u043F\u043E\\configurator_pc\\configurator_pc\\pages\\builderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E5738222-3996-4D21-804A-80586F0D5332}|configurator_pc\\configurator_pc.csproj|solutionrelative:configurator_pc\\pages\\builderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5738222-3996-4D21-804A-80586F0D5332}|configurator_pc\\configurator_pc.csproj|d:\\\u0442\u0440\u043F\u043E\\configurator_pc\\configurator_pc\\pages\\builderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5738222-3996-4D21-804A-80586F0D5332}|configurator_pc\\configurator_pc.csproj|solutionrelative:configurator_pc\\pages\\builderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5738222-3996-4D21-804A-80586F0D5332}|configurator_pc\\configurator_pc.csproj|d:\\\u0442\u0440\u043F\u043E\\configurator_pc\\configurator_pc\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E5738222-3996-4D21-804A-80586F0D5332}|configurator_pc\\configurator_pc.csproj|solutionrelative:configurator_pc\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5738222-3996-4D21-804A-80586F0D5332}|configurator_pc\\configurator_pc.csproj|d:\\\u0442\u0440\u043F\u043E\\configurator_pc\\configurator_pc\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5738222-3996-4D21-804A-80586F0D5332}|configurator_pc\\configurator_pc.csproj|solutionrelative:configurator_pc\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5738222-3996-4D21-804A-80586F0D5332}|configurator_pc\\configurator_pc.csproj|d:\\\u0442\u0440\u043F\u043E\\configurator_pc\\configurator_pc\\pages\\registrpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5738222-3996-4D21-804A-80586F0D5332}|configurator_pc\\configurator_pc.csproj|solutionrelative:configurator_pc\\pages\\registrpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5738222-3996-4D21-804A-80586F0D5332}|configurator_pc\\configurator_pc.csproj|d:\\\u0442\u0440\u043F\u043E\\configurator_pc\\configurator_pc\\pages\\registrpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E5738222-3996-4D21-804A-80586F0D5332}|configurator_pc\\configurator_pc.csproj|solutionrelative:configurator_pc\\pages\\registrpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuilderPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\configurator_pc\\Pages\\BuilderPage.xaml.cs",
+              "RelativeDocumentMoniker": "configurator_pc\\Pages\\BuilderPage.xaml.cs",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\configurator_pc\\Pages\\BuilderPage.xaml.cs",
+              "RelativeToolTip": "configurator_pc\\Pages\\BuilderPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:36:45.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuilderPage.xaml",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\configurator_pc\\Pages\\BuilderPage.xaml",
+              "RelativeDocumentMoniker": "configurator_pc\\Pages\\BuilderPage.xaml",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\configurator_pc\\Pages\\BuilderPage.xaml",
+              "RelativeToolTip": "configurator_pc\\Pages\\BuilderPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-17T16:36:32.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\configurator_pc\\Pages\\AuthPage.xaml.cs",
+              "RelativeDocumentMoniker": "configurator_pc\\Pages\\AuthPage.xaml.cs",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\configurator_pc\\Pages\\AuthPage.xaml.cs",
+              "RelativeToolTip": "configurator_pc\\Pages\\AuthPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwDMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:20:40.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthPage.xaml",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\configurator_pc\\Pages\\AuthPage.xaml",
+              "RelativeDocumentMoniker": "configurator_pc\\Pages\\AuthPage.xaml",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\configurator_pc\\Pages\\AuthPage.xaml",
+              "RelativeToolTip": "configurator_pc\\Pages\\AuthPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-17T16:19:37.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrPage.xaml.cs",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\configurator_pc\\Pages\\RegistrPage.xaml.cs",
+              "RelativeDocumentMoniker": "configurator_pc\\Pages\\RegistrPage.xaml.cs",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\configurator_pc\\Pages\\RegistrPage.xaml.cs",
+              "RelativeToolTip": "configurator_pc\\Pages\\RegistrPage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwDgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T15:27:52.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrPage.xaml",
+              "DocumentMoniker": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\configurator_pc\\Pages\\RegistrPage.xaml",
+              "RelativeDocumentMoniker": "configurator_pc\\Pages\\RegistrPage.xaml",
+              "ToolTip": "D:\\\u0422\u0420\u041F\u041E\\configurator_pc\\configurator_pc\\Pages\\RegistrPage.xaml",
+              "RelativeToolTip": "configurator_pc\\Pages\\RegistrPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-17T14:38:13.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
